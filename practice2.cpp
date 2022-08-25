@@ -5,8 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Practice upload 2 for github.!\n";
     //asiofjaspoifjsoaifjsoifjs
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
